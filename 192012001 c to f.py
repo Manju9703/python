@@ -1,3 +1,3 @@
-pi='22/7'
-r=("enter the given radius")
-a=pi*r^2
+cel = float( input("enter temperature in Celsius: "))
+fahren = (cel * 9/5) + 32
+print( "temperature in fahrenheit is ", fahren )
